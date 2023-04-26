@@ -98,6 +98,7 @@ body {
 .why-us {
     background-color: hsl(179, 47%, 52%);
     padding: 24px;
+    border-radius: 0 0 12px 12px;
 }
 
 .why-us h1 {
@@ -133,9 +134,9 @@ body {
         margin-bottom: 0;
     }
     .monthly-sub {
-        border-radius: 0 0 0 16px;
+        border-radius: 0 0 0 12px;
     }
     .why-us {
-        border-radius: 0 0 16px 0;
+        border-radius: 0 0 12px 0;
     }
 }
